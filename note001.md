@@ -89,6 +89,8 @@ Then diri gi differentiate niya ang kalahian sa Concrete Labor ug Abstract Labor
 2. Concrete Labor - naka tied siya sa paggawa or pag produce sa mga use values. Example: mixing ingredient, kneading dough, assembling a phone, etc. Actual action siya that produces actual things.
 3. Abstract Labor - this is what creates value. It requires socially necessary labor-time which is the average amount of  time societ expects workers to produce something under normal conditions and with average skills and technology.
 
+When products enter exchange, their concrete character must be stripped away. No one gaf about the composition, the fact that labor times embodies the commodities mean that i didnt have to go throguh the pain of assembling shit to myself
+
 
 
 
