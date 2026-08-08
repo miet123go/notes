@@ -54,3 +54,27 @@ We can actually observe this happening in history, the exchange value of a coat 
 Exchange ratios differ geographically also. In one country, an iphone might be cheaper, in another, more expensive. That's because labor conditions, 
 availability of materials, transport costs, and social conventions differ depending on the location.
 
+later, Marx then talked about the appearance vs. essence of exchange‑value. Exchange value at first glance is seemingly "accidental and purely relative", theres no stable, intrinsic value, its just fluctuating ratios. Ang pangutana ni marx: how can a commodity be both relative (changing ratios with time and place) and intrinsic (inherent within a commodity). "It all just seems so contradictory!" - Marx.
+Pero, mao ni ang revelation: exchange value isnt purely external or relative. What makes it commensurable is... labor. Deeper analysis shows that it expresses something intrinsic which is labor. Every commodity here on earth, is a product of human labor. The usefulness of a commodity comes from its material properties, but it only exists socially once labor has shaped it into a product.
+
+Raw text:
+"A given commodity, e.g., a quarter of wheat is exchanged for x blacking, y silk, or z gold, &c. – in short, for other commodities in the most different proportions. Instead of one exchange value, the wheat has, therefore, a great many. But since x blacking, y silk, or z gold &c., each represents the exchange value of one quarter of wheat, x blacking, y silk, z gold, &c., must, as exchange values, be replaceable by each other, or equal to each other. Therefore, first: the valid exchange values of a given commodity express something equal; secondly, exchange value, generally, is only the mode of expression, the phenomenal form, of something contained in it, yet distinguishable from it."
+
+So as you can see sa given ni sir marx, obviously wheat, blacking, silk, and gold aren't equal in quality, right? In what world is gold ever equal to wheat? Here,wheat exchanges for x,y,z isnt random. It's expressing an underlying equality, that is labor. Thats why gold, historically became money, because it condenses labor into a small, durable, portable form.
+
+Naglatag ug another example si marx, corn ug iron. One provides nutrititive benefits, and satiates your hunger, and the other is a precious metal.
+They are two very different things, it seems na dili sila kaya ipagkompara to each other, but Marx says, they can be, and reality agrees with it too.
+If corn and iron can be made to be equal, with just the right ratio in which they can be exchanged with each other. But again because they're fundamentally
+different, we cannot compare them by the corn's nutritive use value or the iron's metallic use value. There is always "a third" marx says which is neither one or the other. The exchange value must therefore be reducible to this mysterious, invincible "third."
+so unsa man jud ang ginapasabot ni marx diri? balik balik ra. hahahahaa. Marx is saying that there is a determinant that keeps commodities equal in exchange and that determinant is labor.
+
+So, ibutang sa bagol bagol: labor is the actual substance of exchange value. Exchange value on the other hand, is the phenomenal form, the way substance is
+expressed in social relations of exchange
+
+
+
+
+
+
+
+
