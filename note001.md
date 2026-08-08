@@ -69,8 +69,25 @@ different, we cannot compare them by the corn's nutritive use value or the iron'
 so unsa man jud ang ginapasabot ni marx diri? balik balik ra. hahahahaa. Marx is saying that there is a determinant that keeps commodities equal in exchange and that determinant is labor.
 
 So, ibutang sa bagol bagol: labor is the actual substance of exchange value. Exchange value on the other hand, is the phenomenal form, the way substance is
-expressed in social relations of exchange
+expressed in social relations of exchange.
 
+Raw confusing ahh text:
+"A simple geometrical illustration will make this clear. In order to calculate and compare the areas of rectilinear figures, we decompose them into triangles. But the area of the triangle itself is expressed by something totally different from its visible figure, namely, by half the product of the base multiplied by the altitude. In the same way the exchange values of commodities must be capable of being expressed in terms of something common to them all, of which thing they represent a greater or less quantity."
+
+In other words: The whole visible triangle is the phenomenal form. But the measurement (1/2 base x height) the abstraction, is the hidden determinant. just as how the triangle's outline doesnt explain its area. Exchange values dont explain themselves either. It points beyond itself to labor 
+which is "contained yet distinguishable"
+
+"This common “something” cannot be either a geometrical, a chemical, or any other natural property of commodities. Such properties claim our attention only in so far as they affect the utility of those commodities, make them use values. But the exchange of commodities is evidently an act characterised by a total abstraction from use value. Then one use value is just as good as another, provided only it be present in sufficient quantity."
+
+Ang "common something" daw that makes commodities comparable cannot be any natural property (chemistry, geometry,weight, etc.) This only matters to use values. Exchange value will always be abstract yet contained and distinguishable.
+
+
+And then in the next paragraph murag sirang plaka si marx, gani marx, we get it, use value embodied commodities are products of labor. everything from your chair, to your phone, to your underwear are all commodities. and then further along the same paragraph, marx went on a spiral about seeing commodities as for what it is. any commodity is just a quantum of its labor crystallized in a physical object.
+His points in this paragraph summarized:
+1. Strip away the use-value: A good way to test this is to envision you're holding a food say biscuits wrapped inside a biscuit wrapper. Once you've devoured all the biscuits, what is left is just the wrapper, without food, its only just a leftover shape.
+Then diri gi differentiate niya ang kalahian sa Concrete Labor ug Abstract Labor
+2. Concrete Labor - naka tied siya sa paggawa or pag produce sa mga use values. Example: mixing ingredient, kneading dough, assembling a phone, etc. Actual action siya that produces actual things.
+3. Abstract Labor - this is what creates value. It requires socially necessary labor-time which is the average amount of  time societ expects workers to produce something under normal conditions and with average skills and technology.
 
 
 
