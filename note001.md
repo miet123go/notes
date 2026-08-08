@@ -23,15 +23,19 @@ Its usefulness is tied to its function, not the labor expended. Marx said that u
 "use values" directly, instead of "commodities", or "objects" that's because commodities are mere material depositories of two phantom properties namely:
 "Use value" and "Exchange value" they're mere abstraction embodying the material form that is a commodity. Both
 properties are contained in commodities at once, pero one only activates depending on the context. Commodities though, are always use value, even things nga
-at first glance doesnt seem useful or necessary to survive, like trinkets, the aesthetic enjoyment, decoration, status display that u get from these 
+at first glance doesnt seem all that useful or necessary to survive, like trinkets, the aesthetic enjoyment, decoration, status display that u get from these 
 are all forms of use.
 But exchange value only emerges, when being compared or exchange. You can know the exchange value of a commodity by comparing it to another commodity.
-Pwede two coats compared to each other one is made of synthetic materials, the other is made of wool. Same silag use value pero needless to say lahi ilang
-exchange value.
+Pwede two coats compared to each other one is made of synthetic materials, the other is made of wool. Same silag function pero needless to say lahi ilang
+exchange value(market price) and use value (practical utility).
 Pwede sad, a toothbrush and a loaf compared to each other.
 
 Key distinction to remember here is that use value is independent of properties outside from its use like for example the socially necessary labor time
 expended into making that commodity. whereas exchange value, it takes into account the function of a commodity, its quantity, its quality and the labor.
+
+Now here's a contradiction:
+Sweatshop workers can put all in their effort and spend hours into tailoring clothes, but with cheap or weak fabric, the final product wont command a high price, meaning lower wage. Not only that, it can feel very devaluing to the worker's effort. Meanwhile, low effort and high quality material conversely, can fetch a high price compared to a high effort low quality commodity, whether the labor is minimal or high, the use value will remain independent of the socially necessary labor time. Because market judges commodities based on material + functionality. Pretty backwards.
+
 
 Marx then said:
 
@@ -39,11 +43,14 @@ Marx then said:
 those of another sort, a relation constantly changing with time and place"
 
 Here ang point ni Marx: tungod kay in everyday life ang matan-awan lang nato kay ang mga surface phenomenon like the ratios. (1 coat = 20 yards of linen, 
-1 ounce of gold = 15 ounces of silver, etc.) na-o-overshadow niini ang substance sa value which is socially necessary labor time.
+1 ounce of gold = 15 ounces of silver, etc.) na-o-overshadow niini ang actual substance sa value which is socially necessary labor time.
 Kung sauna, exchange value happened directly (one use value for another) 1 coat = 20 yards of linen.
 Nowadays, ang ginagamit na nato kay kwarta (or socially recognized measure).
+Ang difference. Barter = direct. Money = indirect. Money is  mediated by a universal equivalent (currency) which serves as an abstract representation
+for the socially necessary labor time.
 Also about sa point ni marx na "a relation constantly changing with time and place." 
-We can actually observe this, the exchange value of a coat in the 17th century may not be the same in 19th century.
-And as for place:
-exchange ratios differ geographically. In one country, an iphone might be cheaper, in another, more expensive.  That's because labor conditions, 
-availability of materials, transport costs, and social conventions diffe
+We can actually observe this happening in history, the exchange value of a coat in the 17th century may not be the same in 19th century. Ang candy nga piso lang sauna, tres pesos na siya karon.
+
+Exchange ratios differ geographically also. In one country, an iphone might be cheaper, in another, more expensive. That's because labor conditions, 
+availability of materials, transport costs, and social conventions differ depending on the location.
+
