@@ -93,6 +93,18 @@ When products enter exchange, their concrete character must be stripped away. No
 
 
 
+next Marx talked about how properties subjective to us are unsubstantial to the residue of these products which is socially necessary human labor which is homogenously observed in any commodity. because exchange value is objective and social, not subjective:
+
+"Let us now consider the residue of each of these products; it consists of the same unsubstantial reality in each, a mere congelation of homogeneous human labour, of labour power expended without regard to the mode of its expenditure. All that these things now tell us is, that human labour power has been expended in their production, that human labour is embodied in them. When looked at as crystals of this social substance, common to them all, they are – Values." - Marx
+
+His points:
+- Commodities = mere congelation of homogeneous human labour.
+- The commodity's use-value or particular material properties don't themselves determine its value. What matters for value is the socially necessary labor time required to produce that commodity under the prevailing conditions of production. But it's not that texture and many such properties has no economic importance, what marx is saying here is that when we perform this particular theoretical abstraction to determine what commodities have in common as values, texture is not part of the thing we're looking for.
+
+
+
+
+
 
 
 
